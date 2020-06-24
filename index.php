@@ -2,9 +2,9 @@ Hello... Welcome...
 
 <br />
 <pre>
-<?ph
+<?php
 
-print`ifconfig`;
+print`ifconfig`
 
 ?>
 </pre>
