@@ -2,7 +2,7 @@ Hello... Welcome...
 
 <br />
 <pre>
-<?php
+<?ph
 
 print`ifconfig`;
 
